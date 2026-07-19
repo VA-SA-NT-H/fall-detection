@@ -120,3 +120,4 @@ An AI-powered, real-time fall detection and emergency warning system designed to
 2. Adjust verification duration, velocity thresholds, and orientation angle parameters.
 3. Configure the caregiver phone number and your Twilio Account SID, Auth Token, and Virtual From Number. 
 * *Note: If no Twilio keys are supplied, the backend will print a mock SMS payload directly to the console for testing.*
+=======
