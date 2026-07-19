@@ -1,0 +1,28 @@
+# Python environment & cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Databases
+*.db
+*.sqlite3
+
+# Node dependencies & builds
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Local media records (optionally ignore recorded incidents)
+backend/events/*.mp4
